@@ -1,9 +1,10 @@
 package com.example.project;
+import com.example.project.Linear_Search.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import org.junit.jupiter.api.Test;
-import com.example.project.Linear_Search.Search;
 import static org.junit.jupiter.api.Assertions.*;
+
 
 
 public class TestSearch {
